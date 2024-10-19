@@ -1,4 +1,5 @@
-This MATLAB CODE is implementation of the theorems introduced in the article of DOI: 10.47000/tjmcs.1217379
+This MATLAB CODE is implementation of the theorems introduced in the article titled "Solution of Integral of the Fourth Power of a Finite-Length Exponential
+Fourier Series" of DOI: 10.47000/tjmcs.1217379
 The article is open access and available on https://doi.org/10.47000/tjmcs.1217379
 the m-files are named after theorems and remarks in the article as following:
 
