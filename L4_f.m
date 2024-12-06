@@ -1,3 +1,7 @@
+% Written by Hesham Sharkas, on 22 October, 2024
+% This code implements formula appears in RHS of equations (2.1) and (2.7)
+% in the open access article DOI: http://dx.doi.org/10.47000/tjmcs.1217379
+
 function out = L4_f(z)
 M = length(z);
 out_a = 0;
